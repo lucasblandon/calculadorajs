@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700);
-*,
+
 html {
   background-color: #036564 !important;
   color: #031634 !important;
@@ -34,6 +34,3 @@ button:active {
   margin-bottom: 5px;
 }
 
-.row {
-  /*order: 1px solid gray; */
-}
